@@ -17,4 +17,29 @@
 
 ---
 
-待续
+### 听
+
+**苹果自带的app，Podcasts，推荐几个：**
+
+* ESL Podcast
+* 摩天轮
+* 英语怎么说？
+* English as a Second Language(ESL) Podcast
+* The English We Speak
+* 潘吉Jenny告诉你
+* This American Life
+* Nature Podcast
+
+### 读
+
+* [Medium](https://medium.com/)
+* [Quora](https://www.quora.com/)
+* Kindle上面的原著小说
+
+### 写
+
+Well, I think there are a lot of ways to write.
+
+### 说
+
+[Howdoyoudo](https://howdoyou.do/) Speak to learn English
