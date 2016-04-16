@@ -13,11 +13,11 @@
 
 听力的话，发现了个很棒的地方，`iPhone`有个`app`叫`podcast`，里面有很多学习英语的广播，现在主要在听`ELSPOD`，语速很合适，解释得也很好。
 
-[vocabulary](https://www.vocabulary.com/)，这个刚刚发现，也试下。在`Quora`上`follow`了Learning English的话题，估计可以慢慢发现更多好的学习方法。
+vocabulary，这个刚刚发现，也试下。在`Quora`上`follow`了Learning English的话题，估计可以慢慢发现更多好的学习方法。
 
 ---
 
-### 听
+### Listen
 
 **苹果自带的app，Podcasts，推荐几个：**
 
@@ -30,16 +30,26 @@
 * This American Life
 * Nature Podcast
 
-### 读
+### Read
 
 * [Medium](https://medium.com/)
 * [Quora](https://www.quora.com/)
 * Kindle上面的原著小说
 
-### 写
+### Write
 
 Well, I think there are a lot of ways to write.
 
-### 说
+### Speak
 
-[Howdoyoudo](https://howdoyou.do/) Speak to learn English
+* [Howdoyoudo](https://howdoyou.do/) Speak to learn English
+
+### Vocabulary
+
+* [扇贝单词](http://www.shanbay.com/)
+* [vocabulary](https://www.vocabulary.com/)
+* [test your vocab](http://testyourvocab.com/)
+
+### Others
+
+* [语法俱乐部](https://zhusandiao.gitbooks.io/grammar-club/content/xu.html) A good book to learn Grammar.
