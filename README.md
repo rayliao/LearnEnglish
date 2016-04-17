@@ -30,10 +30,15 @@ vocabulary，这个刚刚发现，也试下。在`Quora`上`follow`了Learning E
 * This American Life
 * Nature Podcast
 
+[CNN Learning English](https://cnn-learn-english.papagei.com)
+[CNNStudent](https://www.youtube.com/user/CNNStudent)
+[bbclearningenglish](https://www.youtube.com/user/bbclearningenglish)
+
 ### Read
 
 * [Medium](https://medium.com/)
 * [Quora](https://www.quora.com/)
+* [wikipedia](https://simple.wikipedia.org)
 * Kindle上面的原著小说
 
 ### Write
