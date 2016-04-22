@@ -27,9 +27,8 @@
 
 * [Medium](https://medium.com/)
 * [Quora](https://www.quora.com/)
-* [wikipedia](https://simple.wikipedia.org)
+* [simple wikipedia](https://simple.wikipedia.org)
 * [voanews](http://learningenglish.voanews.com/)
-* [simple wiki](https://simple.wikipedia.org/wiki/Main_Page)
 * Kindle上面的原著小说
 
 ### Write
@@ -45,6 +44,7 @@ Well, I think there are a lot of ways to write.
 * [扇贝单词](http://www.shanbay.com/)
 * [vocabulary](https://www.vocabulary.com/)
 * [test your vocab](http://testyourvocab.com/)
+* [VOA Special English Word Book](https://simple.wikipedia.org/wiki/Wikipedia:VOA_Special_English_Word_Book)
 
 ### Others
 
