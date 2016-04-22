@@ -1,4 +1,4 @@
-# LearningEnglish
+# :thumbsup: LearningEnglish :thumbsup:
 
 记录我学习英语的过程，以及保存自己搜索到的学习方法。
 
