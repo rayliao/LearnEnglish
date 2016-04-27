@@ -45,6 +45,7 @@ Well, I think there are a lot of ways to write.
 
 * [扇贝单词](http://www.shanbay.com/)
 * [vocabulary](https://www.vocabulary.com/)
+* [freerice english vocabulary](http://freerice.com/#/english-vocabulary/1525)
 * [test your vocab](http://testyourvocab.com/)
 * [VOA Special English Word Book](https://simple.wikipedia.org/wiki/Wikipedia:VOA_Special_English_Word_Book)
 
