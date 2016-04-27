@@ -1,6 +1,6 @@
 # :thumbsup: LearningEnglish :thumbsup:
 
-记录我学习英语的过程，以及保存自己搜索到的学习方法。
+Record the course of learning English, and save those learning methods that I found.
 
 ---
 
@@ -8,7 +8,7 @@
 
 ### Listen
 
-**苹果自带的app，Podcasts，推荐几个：**
+**Apple app: Podcasts，recommend several shows：**
 
 * ESL Podcast
 * 摩天轮
@@ -31,7 +31,7 @@
 * [Quora](https://www.quora.com/)
 * [simple wikipedia](https://simple.wikipedia.org)
 * [voanews](http://learningenglish.voanews.com/)
-* Kindle上面的原著小说
+* The original novel on Kindle device
 
 ### Write
 
