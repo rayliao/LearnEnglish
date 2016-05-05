@@ -6,6 +6,8 @@ Record the course of learning English, and save those learning methods that I fo
 
 [manythings](http://www.manythings.org/) Many things, include reading, sentences, listening, etc...
 
+[voicetube](https://tw.voicetube.com/) Watch movie to learn English
+
 ### Listen
 
 **Apple app: Podcasts，recommend several shows：**
@@ -35,11 +37,18 @@ Record the course of learning English, and save those learning methods that I fo
 
 ### Write
 
-Well, I think there are a lot of ways to write.
+* [lang-8](http://lang-8.com/) Where you can write and someone will correct your mistake.
 
 ### Speak
 
 * [Howdoyoudo](https://howdoyou.do/) Speak to learn English
+
+#### 口音矫正
+
+* [American Accent Training](http://pan.baidu.com/s/1skBcbTV)
+* [ElementalEnglish](https://www.youtube.com/user/eLeMentalEnglish)
+* [Learn English With Jennifer](https://www.youtube.com/channel/UCtz_RVHDGCb4qFjTsnKzFlg)
+* [Rachel's English](https://www.youtube.com/user/rachelsenglish/videos)
 
 ### Vocabulary
 
