@@ -23,9 +23,9 @@ Record the course of learning English, and save those learning methods that I fo
 
 [CNN Learning English](https://cnn-learn-english.papagei.com)
 
-[CNNStudent](https://www.youtube.com/user/CNNStudent)
+[CNN Student](https://www.youtube.com/user/CNNStudent)
 
-[bbclearningenglish](https://www.youtube.com/user/bbclearningenglish)
+[BBC Learning English](https://www.youtube.com/user/bbclearningenglish)
 
 ### Read
 
