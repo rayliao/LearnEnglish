@@ -6,6 +6,8 @@ Record the course of learning English, and save those learning methods that I fo
 
 [manythings](http://www.manythings.org/) Many things, include reading, sentences, listening, etc...
 
+[EnglishClub](https://www.englishclub.com/) the world's premier FREE website for learners + teachers of English
+
 [voicetube](https://tw.voicetube.com/) Watch movie to learn English
 
 ### Listen
