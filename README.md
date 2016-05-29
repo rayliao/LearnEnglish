@@ -8,6 +8,8 @@ Record the course of learning English, and save those learning methods that I fo
 
 [EnglishClub](https://www.englishclub.com/) the world's premier FREE website for learners + teachers of English
 
+[coeffee](https://coeffee.com/) language exchange
+
 [voicetube](https://tw.voicetube.com/) Watch movie to learn English
 
 ### Listen
@@ -44,6 +46,8 @@ Record the course of learning English, and save those learning methods that I fo
 ### Speak
 
 * [Howdoyoudo](https://howdoyou.do/) Speak to learn English
+* [gospeaky](https://www.gospeaky.com) Language exchange community
+* [verbling](https://www.verbling.com/) You can find teachers here
 
 #### 口音矫正
 
@@ -59,6 +63,10 @@ Record the course of learning English, and save those learning methods that I fo
 * [freerice english vocabulary](http://freerice.com/#/english-vocabulary/1525)
 * [test your vocab](http://testyourvocab.com/)
 * [VOA Special English Word Book](https://simple.wikipedia.org/wiki/Wikipedia:VOA_Special_English_Word_Book)
+
+### Grammar
+
+* [englishgrammar](http://www.englishgrammar.org/)
 
 ### Others
 
