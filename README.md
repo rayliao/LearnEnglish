@@ -43,6 +43,11 @@ Record the course of learning English, and save those learning methods that I fo
 
 * [lang-8](http://lang-8.com/) Where you can write and someone will correct your mistake.
 
+#### Writing check
+
+* [LanguageTool](https://languagetool.org/) style and grammar checker implemented in Java
+* [hemingwayapp](http://www.hemingwayapp.com/)
+
 ### Speak
 
 * [Howdoyoudo](https://howdoyou.do/) Speak to learn English
