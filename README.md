@@ -64,6 +64,7 @@ Record the course of learning English, and save those learning methods that I fo
 ### Vocabulary
 
 * [扇贝单词](http://www.shanbay.com/)
+* [沪江开心词场](http://cichang.hujiang.com/) - It's fun like a game, and you can battle with your friends or other guys.
 * [vocabulary](https://www.vocabulary.com/)
 * [freerice english vocabulary](http://freerice.com/#/english-vocabulary/1525)
 * [test your vocab](http://testyourvocab.com/)
