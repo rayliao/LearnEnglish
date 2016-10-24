@@ -57,9 +57,6 @@ Record the course of learning English, and save those learning methods that I fo
 #### 口音矫正
 
 * [American Accent Training](http://pan.baidu.com/s/1skBcbTV)
-* [ElementalEnglish](https://www.youtube.com/user/eLeMentalEnglish)
-* [Learn English With Jennifer](https://www.youtube.com/channel/UCtz_RVHDGCb4qFjTsnKzFlg)
-* [Rachel's English](https://www.youtube.com/user/rachelsenglish/videos)
 
 ### Vocabulary
 
@@ -74,6 +71,15 @@ Record the course of learning English, and save those learning methods that I fo
 
 * [englishgrammar](http://www.englishgrammar.org/)
 * [grammarly](https://app.grammarly.com/) Check grammar when you are writing
+
+### Channel on Youtube
+
+* [EngFluent](https://www.youtube.com/channel/UCbW3Pcp-8Gz9QMKALqlY5nQ)
+* [ElementalEnglish](https://www.youtube.com/user/eLeMentalEnglish)
+* [Learn English With Jennifer](https://www.youtube.com/channel/UCtz_RVHDGCb4qFjTsnKzFlg)
+* [Rachel's English](https://www.youtube.com/user/rachelsenglish/videos)
+* [JamesESL English Lessons](https://www.youtube.com/channel/UCwA7Aepp7nRUJNa8roQ-6Bw)
+* [Learn English with Gill](https://www.youtube.com/channel/UCzBGtBze1AIcDmRwD2ZjiAA)
 
 ### Others
 
