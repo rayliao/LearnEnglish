@@ -41,7 +41,7 @@ Record the course of learning English, and save those learning methods that I fo
 
 ### Write
 
-* [lang-8](http://lang-8.com/) Where you can write and someone will correct your mistake.
+* [lang-8](http://lang-8.com/) 可以在这个网站提问或者回答词语或句子怎么说，有很多国家的人在，最近出了`APP`，可以搜索`HiNative`
 
 #### Writing check
 
