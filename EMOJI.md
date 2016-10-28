@@ -1,6 +1,5 @@
 :bowtie:
 :smile:
-:simple_smile:
 :laughing:
 :blush:
 :smiley:
@@ -133,7 +132,6 @@
 :person_with_pouting_face:
 :person_frowning:
 :bow:
-:couplekiss:
 :couple_with_heart:
 :massage:
 :haircut:

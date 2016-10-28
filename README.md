@@ -1,6 +1,6 @@
-# :thumbsup: LearningEnglish :thumbsup:
+# :us: LearningEnglish :uk:
 
-Record the course of learning English, and save those learning methods that I found.
+记录学习英语的过程，收藏学习过程找到的一些方法和资源与大家分享。:trollface:
 
 ---
 
