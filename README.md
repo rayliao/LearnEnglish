@@ -50,9 +50,10 @@
 
 ### Speak
 
-* [Howdoyoudo](https://howdoyou.do/) Speak to learn English
+* [Howdoyoudo](https://howdoyou.do/) 网页版聊天，不过native speaker很少，越南人很多
 * [gospeaky](https://www.gospeaky.com) Language exchange community
 * [verbling](https://www.verbling.com/) You can find teachers here
+* [tandem](https://www.tandem.net/) 可以跟native speaker聊天的app
 
 #### 口音矫正
 
