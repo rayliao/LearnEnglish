@@ -11,6 +11,7 @@
 
 1. John Smith died in World War Two. 
 2. John Simth killed three enemy soldiers. 
+
 > 像`die`这种动作，可以独立发生，不牵涉到别的人或物，此动词名`不及物动词`。
 
 >而如`kill`，必须发生在另外一个对象身上，此动词名`及物动词`。
@@ -19,6 +20,7 @@
 **在所有的英语动词中，只有解释为“是”的动词是空的，完全没有意义。**
 
 如：
+
 3. John Smith was a soldier.
 4. John Smith was courageous. 
 
@@ -46,3 +48,22 @@ be 动词是最纯粹的 linking verb ，解释为“ 是 ”，后面应该要�
 - To be or not to be，that is the question.
 
 ## 第二章 名词词组和冠词
+
+> 名词短语：限定词+（形容词）+名词，每个部分都可以省略
+
+什么时候不需要用限定词？
+
+- 如果后面的名词不适合以“一个”来交代，也就是不适合加 a(n) 的话，就可把限定词这个位置空下来。
+- 抽象名词(如 honesty、bribery )，物质名词(如 water、food )虽然是具体的东西，可是形状不固定，不能以 a(n) 来引导的词就可以把限定词省略。
+
+### 专有名词和补语位置
+
+人名（如 Genghis Khan )、地名（如 Taibei )等都是专有名词。因为它所代表的对象只有一个，也不适合加 a(n) ，所以可以不用限定词。
+
+> There are five Sundays this month.
+> I have an appointment on Sunday.
+
+### 定冠词the的用法
+
+凡是上下文中有明指或暗示时，也就是有“那个”的指示功能时，便要用定冠词 the 。
+
