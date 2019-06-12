@@ -40,6 +40,7 @@
 * [Seed](https://itunes.apple.com/cn/app/seed-zhi-du-ying-yu-zi-xun/id1016411909?mt=8) 值得读的英语资讯，最棒的功能应该内嵌了英汉词典，能快速查看定义。
 * [Quartz](https://itunes.apple.com/us/app/quartz-news-in-a-whole-new-way/id1076683233?mt=8) 以聊天的方式给你推荐新闻。
 * The original novel on Kindle device
+* 流利阅读
 
 ### Write
 
