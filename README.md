@@ -12,6 +12,8 @@
 
 [voicetube](https://tw.voicetube.com/) Watch movie to learn English
 
+[duolingo](https://www.duolingo.com/) 英语入门学习，不仅限于英语，还可以学其他国家语言
+
 ### Listen
 
 **Apple app: Podcasts，recommend several shows：**
@@ -75,6 +77,7 @@
 
 * [englishgrammar](http://www.englishgrammar.org/)
 * [grammarly](https://app.grammarly.com/) Check grammar when you are writing
+* [语法俱乐部](https://zhusandiao.gitbooks.io/grammar-club/content/xu.html) A good book to learn Grammar.
 
 ### Channel on Youtube
 
@@ -84,7 +87,3 @@
 * [Rachel's English](https://www.youtube.com/user/rachelsenglish/videos)
 * [JamesESL English Lessons](https://www.youtube.com/channel/UCwA7Aepp7nRUJNa8roQ-6Bw)
 * [Learn English with Gill](https://www.youtube.com/channel/UCzBGtBze1AIcDmRwD2ZjiAA)
-
-### Others
-
-* [语法俱乐部](https://zhusandiao.gitbooks.io/grammar-club/content/xu.html) A good book to learn Grammar.
