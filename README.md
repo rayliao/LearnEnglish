@@ -4,6 +4,8 @@
 
 ---
 
+[English-level-up-tips-for-Chinese](https://github.com/byoungd/English-level-up-tips-for-Chinese) 关于如何学习英语，很完整的一篇指南
+
 [manythings](http://www.manythings.org/) Many things, include reading, sentences, listening, etc...
 
 [EnglishClub](https://www.englishclub.com/) the world's premier FREE website for learners + teachers of English
