@@ -97,3 +97,8 @@
 ### 🔧 Tools
 
 * [词根词缀字典](http://dicts.cn/)
+
+### 👶 For Children
+
+* [YouTube Kids](https://www.youtubekids.com/)
+* [Duolingo ABC](https://www.duolingo.com/abc)
