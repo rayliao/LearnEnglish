@@ -70,6 +70,7 @@
 
 ### 🍚 Vocabulary
 
+* [不背单词](https://bbdc.cn/)
 * [扇贝单词](http://www.shanbay.com/)
 * [沪江开心词场](http://cichang.hujiang.com/) - It's fun like a game, and you can battle with your friends or other guys.
 * [Vocabulary](https://www.vocabulary.com/)
