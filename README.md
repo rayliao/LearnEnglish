@@ -77,6 +77,7 @@
 * [Freerice english vocabulary](http://freerice.com/#/english-vocabulary/1525)
 * [Test your vocab](http://testyourvocab.com/)
 * [VOA Special English Word Book](https://simple.wikipedia.org/wiki/Wikipedia:VOA_Special_English_Word_Book)
+* [有道词汇量测试](https://c.youdao.com/market/recite-vocabulary/index.html)
 
 ### 🍬 Grammar
 
